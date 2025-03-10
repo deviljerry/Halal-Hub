@@ -6,6 +6,18 @@ Food Front-End Page
 
 ![HalalHub Preview](https://images.unsplash.com/photo-1540914124281-342587941389?ixlib=rb-1.2.1&auto=format&fit=crop&w=1567&q=80)
 
+
+---
+
+
+
+## 🚀 Live Demo
+
+🎥 **Experience HalalHub live!**  
+👉 [Click Here to Try It](https://deviljerry.github.io/Halal-Hub/
+)  
+
+
 ---
 
 ## 🌟 Features
