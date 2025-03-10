@@ -29,11 +29,7 @@ Food Front-End Page
 
 ---
 
-## 🚀 Live Demo
 
-🔗 **Check out the live demo:** [Click Here](https://your-demo-link.com)  
-
----
 
 ## 🛠️ Technologies Used
 
